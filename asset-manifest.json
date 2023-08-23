@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chaus-website/static/css/main.23303e83.css",
+    "main.css": "/chaus-website/static/css/main.1dcdcd85.css",
     "main.js": "/chaus-website/static/js/main.1936d88e.js",
     "static/js/787.aa82cb98.chunk.js": "/chaus-website/static/js/787.aa82cb98.chunk.js",
     "static/media/jara.svg": "/chaus-website/static/media/jara.4d5df8c589e0e70cdd07226a096763e5.svg",
@@ -16,12 +16,12 @@
     "static/media/white-email.svg": "/chaus-website/static/media/white-email.bf2475c0bc03482473051b2f77054f1b.svg",
     "static/media/white-linkedin.svg": "/chaus-website/static/media/white-linkedin.3bd235791b3198017ad8c5695e1880de.svg",
     "index.html": "/chaus-website/index.html",
-    "main.23303e83.css.map": "/chaus-website/static/css/main.23303e83.css.map",
+    "main.1dcdcd85.css.map": "/chaus-website/static/css/main.1dcdcd85.css.map",
     "main.1936d88e.js.map": "/chaus-website/static/js/main.1936d88e.js.map",
     "787.aa82cb98.chunk.js.map": "/chaus-website/static/js/787.aa82cb98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23303e83.css",
+    "static/css/main.1dcdcd85.css",
     "static/js/main.1936d88e.js"
   ]
 }
